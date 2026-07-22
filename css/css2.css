@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'B612 Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/kmK_Zq85QVWbN1eW6lJl1w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'B612 Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/kmK6Zq85QVWbN1eW6lJdayv4og.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Caveat Brush';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/EYq0maZfwr9S9-ETZc3fKXtMWw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sniglet';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cIf9MaFLtkE3UjaJxCk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sniglet';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../fonts/cIf4MaFLtkE3UjaJ_ImHRGE.ttf) format('truetype');
+}
