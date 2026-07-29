@@ -10,8 +10,8 @@ for (const file of files) {
         let content = fs.readFileSync(filePath, 'utf8');
         let modified = false;
 
-        const target = 'src:"/pump.fun-wordmark.svg"';
-        const replacement = 'src:"https://pump.fun/pump-logomark.svg?dpl=dpl_3FfL7Lj8awkMMgJQvepRZdzzuztJ"';
+        const target = 'src:"/Pons Family-wordmark.svg"';
+        const replacement = 'src:"https://ponsfamily.com/pump-logomark.svg?dpl=dpl_3FfL7Lj8awkMMgJQvepRZdzzuztJ"';
 
         if (content.includes(target)) {
             content = content.replace(target, replacement);

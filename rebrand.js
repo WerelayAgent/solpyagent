@@ -9,8 +9,8 @@ const replacements = [
     { pattern: /\bGloopy\b/g, replacement: 'Solpy' },
     { pattern: /\bgloopy\b/g, replacement: 'solpy' },
     { pattern: /\bGLOOPY\b/g, replacement: 'SOLPY' },
-    { pattern: /pump.fun/gi, replacement: 'pump.fun' },
-    { pattern: /pump.fun/gi, replacement: 'pump.fun' }
+    { pattern: /Pons Family/gi, replacement: 'Pons Family' },
+    { pattern: /Pons Family/gi, replacement: 'Pons Family' }
 ];
 
 function processFiles(directory) {
